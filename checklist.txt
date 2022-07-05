@@ -1,0 +1,4 @@
+Регистрация
+Email                Passed
+Соцсети              Failed
+Валидация полей      Passed
